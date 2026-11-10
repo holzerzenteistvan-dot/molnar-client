@@ -1,0 +1,1 @@
+Put your MolnarMacros.zip (or .exe) in this folder. Never move it into /public.
